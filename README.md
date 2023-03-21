@@ -1,7 +1,7 @@
-News App
+#News App
 This is a simple news app built with Next.js that consumes a free news API to display headlines and articles from various sources. The app allows users to search for news articles and filter them by category.
 
-Getting Started
+##Getting Started
 To get started with this app, follow these steps:
 
 Clone this repository to your local machine.
@@ -17,12 +17,12 @@ Start the development server by running npm run dev.
 
 Open your browser and navigate to http://localhost:3000 to view the app.
 
-Usage
+##Usage
 Once the app is running, you can use the search bar to find news articles related to a particular topic. You can also filter the articles by category using the buttons at the top of the page.
 
 Clicking on a news article will take you to a separate page with more detailed information about the article.
 
-Technologies Used
+##Technologies Used
 This app was built with the following technologies:
 
 Next.js
