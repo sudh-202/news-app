@@ -1,4 +1,4 @@
-#News App
+# News App
 This is a simple news app built with Next.js that consumes a free news API to display headlines and articles from various sources. The app allows users to search for news articles and filter them by category.
 
 ##Getting Started
